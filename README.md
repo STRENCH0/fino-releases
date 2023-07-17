@@ -6,13 +6,6 @@
 
 An app to manage your finances.
 
-## Setup steps
-
-1. Set version in pubspec.yaml
-2. `flutter pub get`
-3. `flutter packages pub run build_runner build`
-4. `flutter build apk --no-tree-shake-icons`
-
 ## Key features
 - Support for different currencies including crypto
 - Different charts to analyze your spendings
