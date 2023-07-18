@@ -1,3 +1,9 @@
+## [2.3.2] - 2023-07-18
+
+### Added
+- Automatic release pipeline
+
+
 ## [2.3.1] - 2023-07-16
 
 GazpromBank push import fix
