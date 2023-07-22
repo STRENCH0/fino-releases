@@ -1,3 +1,12 @@
+## [2.5.0] - 2023-07-22
+
+### Added
+- Calculator for sum field in add transaction screen and add wallet screen
+- Hide FAB on scroll in category add screen
+
+### Changed
+- OTA dialog animation
+
 ## [2.4.1] - 2023-07-18
 
 ### Fixed
