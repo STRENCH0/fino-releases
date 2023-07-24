@@ -1,3 +1,13 @@
+## [2.5.1] - 2023-07-24
+
+### Changed
+- Category statistic sum range filter respects current main currency and not just value
+
+### Fixed
+- Active update button right after update to the latest version
+- Category statistic sum range filter upper bound
+- No save button after calc use
+
 ## [2.5.0] - 2023-07-22
 
 ### Added
