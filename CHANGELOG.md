@@ -1,3 +1,17 @@
+## [2.6.1] - 2023-08-02
+
+Small fixes
+
+### Added
+- Drag target hovering indication
+
+### Changed
+- Increased droppable zone for changing page
+- Slightly decreased pager animation duration while dragging category
+
+### Fixed
+- Changed color of draggable list item indicator
+
 ## [2.6.0] - 2023-08-02
 
 Drag and drop operations creation and UX improvements
