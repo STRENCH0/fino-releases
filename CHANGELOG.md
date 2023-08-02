@@ -1,3 +1,10 @@
+## [2.6.2] - 2023-08-03
+
+Hotfix
+
+### Fixed
+- Back gesture bug
+
 ## [2.6.1] - 2023-08-02
 
 Small fixes
