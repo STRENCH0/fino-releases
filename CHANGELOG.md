@@ -1,3 +1,21 @@
+## [2.6.0] - 2023-08-02
+
+Drag and drop operations creation and UX improvements
+
+### Added
+- Ability to create operations by dragging category icons onto another one
+- Setting to turn off draggable categories
+- New choose wallet dialog by tapping on wallet
+- Drag indicator for draggable list items
+
+### Changed
+- Moved settings button from bottom bar to app bar
+- Massive UX improvements in statistic screen
+
+### Fixed
+- Error while using back gesture on import screen
+- State loss on changing theme
+
 ## [2.5.1] - 2023-07-24
 
 ### Changed
