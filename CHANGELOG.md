@@ -1,3 +1,12 @@
+## [2.6.3] - 2023-08-03
+
+### Added
+- Indication on reorder start
+- Statistic screen from budget chart
+
+### Fixed
+- Reorderable container size
+
 ## [2.6.2] - 2023-08-03
 
 Hotfix
