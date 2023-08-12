@@ -1,3 +1,16 @@
+## [2.7.0] - 2023-08-12
+
+### Added
+- Support for custom currencies
+- Update banner on main screen
+- Support for credit cards (available balance is shown on main screen)
+
+### Changed
+- Alert dialogs unified style
+
+### Fixed
+- A bug when choose wallet function doesn't actually change wallet on screen
+
 ## [2.6.3] - 2023-08-03
 
 ### Added
