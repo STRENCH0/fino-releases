@@ -1,3 +1,17 @@
+## [2.8.0] - 2023-09-30
+
+### Added
+- Google drive sync
+
+### Changed
+- Cupertino style alert dialogs
+- Cupertino style date dialogs
+
+### Fixed
+- FAB pushing up by keyboard inside add transaction screen
+- Fixed date summary spendings while setting up date using calendar widget
+- Dialogs not popping on back button
+ 
 ## [2.7.0] - 2023-08-12
 
 ### Added
