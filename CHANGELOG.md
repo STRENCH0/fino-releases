@@ -1,3 +1,9 @@
+## [2.9.1] - 2023-09-02
+
+### Fixed
+- Operation type label
+- Snapping grid division by zero error
+
 ## [2.9.0] - 2023-09-01
 
 ### Added
