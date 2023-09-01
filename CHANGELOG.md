@@ -1,4 +1,28 @@
-## [2.8.0] - 2023-09-30
+## [2.9.0] - 2023-09-01
+
+### Added
+- PageView height respects number of categories in add transaction screen
+- App bar button to open card choose screen
+- Fade animation for sync button on scrolling
+- Selected date in add transaction header
+
+### Changed
+- New charts data style
+- New transaction list style
+- New card chooser style
+- No indicator for PageView with single page
+- Move settings button to navigation bar
+- Summary settings labels
+- Save button moved to center in add transaction screen
+- Optimization of day summary loading in main screen
+- New UI for selecting transaction type
+
+### Fixed
+- Label overflow in pie chart
+- Day summary not updating after transaction delete
+- Removed zero elements from pie chart
+
+## [2.8.0] - 2023-08-30
 
 ### Added
 - Google drive sync
