@@ -1,3 +1,8 @@
+## [2.9.2] - 2023-09-02
+
+### Fixed
+- Absence of nav bar in settings 
+
 ## [2.9.1] - 2023-09-02
 
 ### Fixed
