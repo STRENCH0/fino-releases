@@ -1,3 +1,13 @@
+## [2.9.3] - 2023-09-08
+
+### Added
+- Ability to fast travel to summary wallet
+- Reordering summary wallet from choose wallet screen
+- Auto remove push statistic older than 7 days
+
+### Fixed
+- Optimized main screen
+
 ## [2.9.2] - 2023-09-02
 
 ### Fixed
