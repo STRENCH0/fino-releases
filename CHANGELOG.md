@@ -1,3 +1,14 @@
+## [2.9.4] - 2023-09-09
+
+### Added
+- Haptic feedback on long press for choose wallet screen
+
+### Changed
+- Faster scroll animation for cards page view
+
+### Fixed
+- Laggy scrolling for cards page view
+
 ## [2.9.3] - 2023-09-08
 
 ### Added
