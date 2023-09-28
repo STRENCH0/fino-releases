@@ -1,3 +1,11 @@
+## [2.9.6] - 2023-09-29
+
+### Added
+- New animations for choose wallet screen
+
+### Fixed
+- Reordering bug
+
 ## [2.9.5] - 2023-09-16
 
 ### Added
