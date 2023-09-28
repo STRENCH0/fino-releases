@@ -1,3 +1,11 @@
+## [2.9.7] - 2023-09-29
+
+### Changed
+- Some hero animations duration
+
+### Fixed
+- Not working hero animations inside wallets and category pages
+
 ## [2.9.6] - 2023-09-29
 
 ### Added
