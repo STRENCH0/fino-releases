@@ -1,3 +1,11 @@
+## [2.9.8] - 2023-09-30
+
+### Changed
+- Animation in choose wallet screen
+
+### Fixed
+- Bug when wallet and category were not updated after saving
+
 ## [2.9.7] - 2023-09-29
 
 ### Changed
