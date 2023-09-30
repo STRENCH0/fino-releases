@@ -1,3 +1,12 @@
+## [2.9.9] - 2023-09-30
+
+### Changed
+- Rework of charts page
+- Increased duration of animation in choose wallet screen
+
+### Fixed
+- Not working back gesture after going to choose message screen
+
 ## [2.9.8] - 2023-09-30
 
 ### Changed
