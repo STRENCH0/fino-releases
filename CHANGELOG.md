@@ -1,3 +1,16 @@
+## [3.0.0] - 2023-10-02
+
+### Added
+- Tags for transactions
+
+### Changed
+- Drag is activated by tapping on drag icon
+- Transaction modal sheet font sizes
+
+### Fixed
+- Change theme wiped app state
+- Scroll in add transaction screen
+
 ## [2.9.9] - 2023-09-30
 
 ### Changed
