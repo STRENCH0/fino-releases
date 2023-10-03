@@ -1,3 +1,13 @@
+## [3.1.0] - 2023-10-03
+
+### Added
+- Autofocus for tag name field
+- Reorder of tags
+- Tags filter in statistic screen
+
+### Fixed
+- No tags in category screen when import is disabled
+
 ## [3.0.0] - 2023-10-02
 
 ### Added
