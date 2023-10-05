@@ -1,3 +1,10 @@
+## [3.1.1] - 2023-10-05
+
+### Changed
+- Order of fields in bottom sheet
+- Removed info from push import transaction when tags found
+- Show tags on list item prior to info
+
 ## [3.1.0] - 2023-10-03
 
 ### Added
