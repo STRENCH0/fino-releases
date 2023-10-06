@@ -1,3 +1,8 @@
+## [3.1.2] - 2023-10-06
+
+### Fixed
+- Tinkoff push import
+
 ## [3.1.1] - 2023-10-05
 
 ### Changed
