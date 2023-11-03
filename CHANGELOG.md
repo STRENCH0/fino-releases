@@ -1,3 +1,16 @@
+## [3.2.0] - 2023-11-03
+
+### Added
+- Manual backup restore from Google Drive
+- Button to manually fix wallet states
+
+### Changed
+- Tags name are not unique now
+- Tag labels are used to identify category by info
+
+### Fixed
+- Bug with wallet states update
+
 ## [3.1.3] - 2023-10-07
 
 ### Fixed
