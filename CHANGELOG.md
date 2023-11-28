@@ -1,3 +1,14 @@
+## [3.3.0] - 2023-11-28
+
+### Added
+- Operation import to CSV
+
+### Changed
+- Upgraded flutter version
+
+### Fixed
+- English locale bug
+
 ## [3.2.0] - 2023-11-03
 
 ### Added
