@@ -1,3 +1,16 @@
+## [3.3.1] - 2023-11-29
+
+### Changed
+- Hide dev settings
+- Moved main currency selector to currencies screen
+- Dropdowns width decreased
+- Icon picker dialog
+
+### Fixed
+- Removed tags section from source category page
+- Modal bottom sheet now opens over bottom navigation bar
+- Close currency action pane on button tap
+
 ## [3.3.0] - 2023-11-28
 
 ### Added
