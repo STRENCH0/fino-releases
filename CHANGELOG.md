@@ -1,3 +1,15 @@
+## [3.3.2] - 2023-12-07
+
+### Added
+- Ability to set new currencies as crypto
+
+### Changed
+- New icons for settings
+
+### Fixed
+- Incorrect number formatter on add transaction screen
+- Month dialog on charts screen was not dismissible
+
 ## [3.3.1] - 2023-11-29
 
 ### Changed
