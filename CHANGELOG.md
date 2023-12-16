@@ -1,3 +1,22 @@
+## [4.0.0] - 2023-12-16
+
+### Added
+- Sync between multiple devices
+- Transaction data modal on statistic screen
+- Save selected month in pie charts
+- Ability to choose multiple categories on statistic screen
+- Income and expanse widgets on main screen
+- Quick action to add transaction
+
+### Changed
+- Old gdrive backup option is replaced by sync
+- Updated introduction screen
+
+### Fixed
+- Converted sum suggestion fix
+- Pie charts data wasn't updated when there aren't new data in month
+- Fixed db backup restore panic
+
 ## [3.3.3] - 2023-12-07
 ### Fixed
 - Crashes
