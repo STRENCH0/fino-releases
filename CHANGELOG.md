@@ -1,3 +1,18 @@
+## [4.1.0] - 2023-12-22
+
+### Added
+- Optimization for large screens
+- Optimization for phone landscape orientation
+- Automatic sync for operations
+
+### Changed
+- Completely changed routing library to introduce more stable experience
+- Dialogs in statistic screen replaced by modal bottom sheets
+
+### Fixed
+- Sync categories bug
+- Different navigation bugs
+
 ## [4.0.0] - 2023-12-16
 
 ### Added
