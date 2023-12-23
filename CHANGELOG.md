@@ -1,3 +1,11 @@
+## [4.1.1] - 2023-12-23
+
+### Fixed
+- Loader overlay in sync screen didn't hide rail
+- Position of intro screen content in landscape view
+- Back button closes the app on transaction edit screen when it opened from modal bottom sheet
+- Back button for dialogs
+
 ## [4.1.0] - 2023-12-22
 
 ### Added
