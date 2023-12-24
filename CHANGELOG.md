@@ -1,3 +1,12 @@
+## [4.1.2] - 2023-12-25
+
+### Changed
+- Increased category and wallet icons size
+
+### Fixed
+- Date dialog back button behaviour on category statistic screen
+- Auto sync not working
+
 ## [4.1.1] - 2023-12-23
 
 ### Fixed
@@ -41,6 +50,7 @@
 - Fixed db backup restore panic
 
 ## [3.3.3] - 2023-12-07
+
 ### Fixed
 - Crashes
 
