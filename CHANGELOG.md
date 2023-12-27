@@ -1,3 +1,8 @@
+## [4.1.3] - 2023-12-27
+
+### Fixed
+- Manual backup on android
+
 ## [4.1.2] - 2023-12-25
 
 ### Changed
