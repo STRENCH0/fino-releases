@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-4.1.3-blue) ![](https://github.com/STRENCH0/finance_manager/actions/workflows/android-release.yml/badge.svg)
+![](https://img.shields.io/badge/version-4.2.0-blue) ![](https://github.com/STRENCH0/finance_manager/actions/workflows/android-release.yml/badge.svg)
 
 <img src="screenshots/main_page_screenshot.png?raw=true" width="200"> <img src="screenshots/wallets_page_screenshot.png?raw=true" width="200"> <img src="screenshots/charts_page_screenshot.png?raw=true" width="200"> <img src="screenshots/settings_page_screenshot.png?raw=true" width="200">
 
