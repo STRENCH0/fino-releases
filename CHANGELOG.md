@@ -1,3 +1,13 @@
+## [4.2.0] - 2023-12-30
+
+### Changed
+- Transaction type selector in category statistic screen
+- Icon size in category statistic screen list
+- Calc accept button
+- Text fields style in add wallet and add category screens
+- SummaryColor dialog changed to bottom sheet
+- Sort for destination and source categories in category statistic screen
+
 ## [4.1.3] - 2023-12-27
 
 ### Fixed
