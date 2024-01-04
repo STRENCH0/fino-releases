@@ -1,3 +1,15 @@
+## [4.2.1] - 2024-01-05
+
+### Added
+- SMS import button tooltip
+- No connection message for sync screen
+
+### Changed
+- Icon size in category statistic screen
+
+### Fixed
+- Statistic card for summary wallet when no operations were done
+
 ## [4.2.0] - 2023-12-30
 
 ### Changed
