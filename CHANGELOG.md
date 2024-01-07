@@ -1,3 +1,14 @@
+## [4.2.2] - 2024-01-07
+
+### Added
+- Warning dialog for enabling sync
+
+### Fixed
+- SyncError toString
+- Appstore connect errors
+- Draft transaction icon overflow
+- Create tag by info replaced selected tags
+
 ## [4.2.1] - 2024-01-05
 
 ### Added
