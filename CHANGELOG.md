@@ -1,3 +1,14 @@
+## [5.0.0] - 2024-01-13
+
+### Added
+- Budgets function
+- Additional warning and actions on enabling sync
+
+### Changed
+- Sum enter field is replaced by custom keyboard with calculator
+- Prevent sync in case new version sync files exist
+- Base navigation
+
 ## [4.2.2] - 2024-01-07
 
 ### Added
