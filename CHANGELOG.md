@@ -1,3 +1,8 @@
+## [5.1.1] - 2024-01-16
+
+### Fixed
+- Budget wasn't deleted after sync
+
 ## [5.1.0] - 2024-01-15
 
 ### Added
