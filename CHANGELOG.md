@@ -1,3 +1,21 @@
+## [5.1.0] - 2024-01-15
+
+### Added
+- Haptic feedback for new calc widget
+- Delete budget confirm dialog
+- Add tags from category screen
+
+### Changed
+- Budget info screen
+- Budget history screen
+- Queries for budgets
+- Increased max length of budget name
+
+### Fixed
+- Budget history chart
+- IOS testflight publish
+- Title for edit budget screen
+
 ## [5.0.0] - 2024-01-13
 
 ### Added
