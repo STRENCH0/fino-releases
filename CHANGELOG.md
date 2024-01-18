@@ -1,3 +1,20 @@
+## [5.2.0] - 2024-01-18
+
+### Added
+- Available currencies added to app resources
+- Transaction delete dialog
+
+### Changed
+- Added splash for calculator buttons
+- Restyled currencies screen
+- Button to choose category type in category add screen
+- Remove ability of changing type of existing category
+- Tag dialog to bottom sheet
+- Currency search screen
+
+### Fixed
+- Calc with point numbers
+
 ## [5.1.1] - 2024-01-16
 
 ### Fixed
