@@ -1,3 +1,11 @@
+## [5.2.1] - 2024-01-19
+
+### Added
+- Update transaction list after sync on tablets and landscape phones
+
+### Fixed
+- Tag sync update bug 
+
 ## [5.2.0] - 2024-01-18
 
 ### Added
