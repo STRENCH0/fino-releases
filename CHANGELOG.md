@@ -1,3 +1,9 @@
+## [5.2.2] - 2024-01-21
+
+### Fixed
+- Calc buttons delay
+- Push import Transaction wasn't shown without page reload
+
 ## [5.2.1] - 2024-01-19
 
 ### Added
