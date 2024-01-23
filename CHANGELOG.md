@@ -1,3 +1,15 @@
+## [5.2.3] - 2024-01-23
+
+### Changed
+- Responsive budget history screen
+- Responsive currencies screen
+- Force settings always be shown in material design
+- Delete dialog in sync screen
+
+### Fixed
+- Help button dialog width on big screens
+- Settings screen tiles in portrait phone layout
+
 ## [5.2.2] - 2024-01-21
 
 ### Fixed
