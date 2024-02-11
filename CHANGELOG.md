@@ -1,3 +1,9 @@
+## [5.2.4] - 2024-01-23
+
+### Fixed
+- Use root navigator in currencies dialog
+- Tinkoff push import
+
 ## [5.2.3] - 2024-01-23
 
 ### Changed
