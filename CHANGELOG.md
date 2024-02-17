@@ -1,4 +1,14 @@
-## [5.2.4] - 2024-01-23
+## [5.2.5] - 2024-02-18
+
+### Added
+- Tinkoff additional sbp template
+- Edit wallet button on main screen
+
+### Fixed
+- Tinkoff import for fracational sum
+- Null in adjustment delete dialog
+
+## [5.2.4] - 2024-02-12
 
 ### Fixed
 - Use root navigator in currencies dialog
