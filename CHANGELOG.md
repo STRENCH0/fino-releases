@@ -1,3 +1,11 @@
+## [5.2.6] - 2024-02-18
+
+### Changed
+- Main screen landscape mobile layout 
+
+### Fixed
+- iOS build script
+
 ## [5.2.5] - 2024-02-18
 
 ### Added
@@ -19,7 +27,7 @@
 ### Changed
 - Responsive budget history screen
 - Responsive currencies screen
-- Force settings always be shown in material design
+- Force settings always be shown in material design 
 - Delete dialog in sync screen
 
 ### Fixed
