@@ -1,3 +1,16 @@
+## [5.3.0] - 2024-02-20
+
+### Added
+- Beta label for sync settings tile
+
+### Changed
+- New introduction screen
+- Android targetSDK changed to 34
+
+### Fixed
+- List on main screen didn't appear after first start
+- Fix tinkoff push import
+
 ## [5.2.6] - 2024-02-18
 
 ### Changed
