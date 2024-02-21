@@ -1,3 +1,11 @@
+## [5.3.1] - 2024-02-21
+
+### Added
+- Rustore update
+
+### Fixed
+- Create wallet states after introduction screen
+
 ## [5.3.0] - 2024-02-20
 
 ### Added
