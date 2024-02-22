@@ -1,3 +1,8 @@
+## [5.3.2] - 2024-02-22
+
+### Changed
+- Number format according to locale
+
 ## [5.3.1] - 2024-02-21
 
 ### Added
