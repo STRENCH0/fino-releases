@@ -1,3 +1,14 @@
+## [5.3.3] - 2024-02-22
+
+### Added
+- Button on add_wallet_screen to delete/hide
+- Button on add_category_screen to delete/hide
+- Icon for adjustment
+
+### Changed
+- Remove ability to delete/hide wallets and categories from wallets/categories screen on swipe
+- Disable drag and drop by default
+
 ## [5.3.2] - 2024-02-22
 
 ### Changed
