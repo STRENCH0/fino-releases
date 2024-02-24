@@ -1,4 +1,14 @@
-## [5.3.3] - 2024-02-22
+## [5.3.4] - 2024-02-24
+
+### Fixed
+- Tinkoff sms import
+- SMS import dialog using root navigator
+
+### Changed
+- Remove navigation to statistic from wallets and categories pages
+- Text for import card data hint
+
+## [5.3.3] - 2024-02-23
 
 ### Added
 - Button on add_wallet_screen to delete/hide
