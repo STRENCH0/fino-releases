@@ -1,3 +1,20 @@
+## [5.4.0] - 2024-02-25
+
+### Added
+- Added aab github actions build
+- New predefined categories
+
+### Changed
+- Removed old intro screen
+- Decreased apk size
+- Sentry is replaced by firebase
+- Intro screen animations
+
+### Fixed
+- Error after restoring backup on intro screen
+- Tinkoff sms import
+- Default currency on intro screen
+
 ## [5.3.4] - 2024-02-24
 
 ### Fixed
