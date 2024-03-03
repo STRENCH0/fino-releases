@@ -1,3 +1,24 @@
+## [5.5.0] - 2024-03-04
+
+### Added
+- Option to hide empty wallet/category
+- No budgets text in budget_screen
+- Color scheme change
+- Category and wallet text color adapt to background color
+- Ability to choose text color between black and white
+
+### Changed
+- Main screen -> choose wallet animation
+- TabBar ripple effect radius
+
+### Fixed
+- White lines between calculator buttons
+- Credit limit was not changed after editing wallet from main screen
+- Decimal separator didn't work in calculator from clipboard
+- Last wallet cannot be deleted now
+- Last category cannot be deleted now
+- Trying to fix laggy wallets and categories screens
+
 ## [5.4.0] - 2024-02-25
 
 ### Added
