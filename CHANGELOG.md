@@ -6,10 +6,12 @@
 - Color scheme change
 - Category and wallet text color adapt to background color
 - Ability to choose text color between black and white
+- Hide update banner option
 
 ### Changed
 - Main screen -> choose wallet animation
 - TabBar ripple effect radius
+- Update banner design
 
 ### Fixed
 - White lines between calculator buttons
@@ -18,6 +20,7 @@
 - Last wallet cannot be deleted now
 - Last category cannot be deleted now
 - Trying to fix laggy wallets and categories screens
+- Firebase screen observer
 
 ## [5.4.0] - 2024-02-25
 
