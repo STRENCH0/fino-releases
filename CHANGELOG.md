@@ -1,3 +1,9 @@
+## [5.5.1] - 2024-03-15
+
+### Added
+- Flutter flavors
+- About dialog
+
 ## [5.5.0] - 2024-03-04
 
 ### Added
