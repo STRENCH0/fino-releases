@@ -1,3 +1,18 @@
+## [5.5.3] - 2024-03-17
+
+### Added
+- Ability to ignore wallet in summary
+- Credit card flag for credit card in intro screen
+
+### Fixed
+- Calculator zeroes after decimal point
+- Collect sync events while it is disabled
+
+## [5.5.2] - 2024-03-16
+
+### Changed
+- Removed install package permissions
+
 ## [5.5.1] - 2024-03-15
 
 ### Added
