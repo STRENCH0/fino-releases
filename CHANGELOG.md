@@ -1,3 +1,11 @@
+## [5.5.4] - 2024-03-20
+
+### Added
+- Button to show values in main currency in charts
+
+### Fixed
+- Sum by day currency convert
+
 ## [5.5.3] - 2024-03-17
 
 ### Added
