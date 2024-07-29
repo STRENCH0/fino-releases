@@ -1,3 +1,15 @@
+## [5.6.0] - 2024-07-29
+
+### Added
+- Option to automatically open calc on add transaction screen
+
+### Changed
+- Added additional space for swipe when drag and drop enabled
+- Updated some dependencies
+
+### Fixed
+- Sync warning title
+
 ## [5.5.4] - 2024-03-20
 
 ### Added
