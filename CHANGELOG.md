@@ -1,3 +1,16 @@
+## [5.6.1] - 2024-11-13
+
+### Added
+- Update currencies dialog
+
+### Changed
+- Calc automatically opens only on new transactions
+- Up flutter version
+
+### Fixed
+- Sync replace on intro screen
+
+
 ## [5.6.0] - 2024-07-29
 
 ### Added
