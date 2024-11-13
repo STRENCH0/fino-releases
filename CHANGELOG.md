@@ -1,3 +1,9 @@
+## [5.6.2] - 2024-11-14
+
+### Fixed
+- Layout for different text sizes
+
+
 ## [5.6.1] - 2024-11-13
 
 ### Added
