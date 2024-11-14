@@ -1,8 +1,17 @@
+## [5.6.4] - 2024-11-14
+
+### Added
+- Ability to use default app color for summary card
+
+### Fixed
+- Dynamic color by system theme
+- Currencies screen layout
+- Optimized some widgets for different text sizes
+
 ## [5.6.3] - 2024-11-14
 
 ### Fixed
 - Starting screen layout error
-
 
 ## [5.6.2] - 2024-11-14
 
