@@ -1,3 +1,8 @@
+## [5.6.5] - 2024-11-16
+
+### Added
+- Tags search in add transaction screen
+
 ## [5.6.4] - 2024-11-14
 
 ### Added
