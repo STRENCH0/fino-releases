@@ -1,3 +1,8 @@
+## [5.6.6] - 2024-11-16
+
+### Fixed
+- Reorderable containers colors
+
 ## [5.6.5] - 2024-11-16
 
 ### Added
