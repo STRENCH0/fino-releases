@@ -1,3 +1,28 @@
+## [6.0.0] - 2025-10-25
+
+### Added
+- AI financial analysis with GigaChat integration
+- AI Settings screen for provider configuration
+- Secure credential storage for AI providers
+- Configurable transaction limits for AI analysis (expenses, incomes, transfers)
+- Configurable AI response size (word count) in settings
+- AI disclaimer banner on AI screen (hides on scroll)
+
+### Changed
+- Kotlin version bumped to 2.1.10
+- Category statistics screen now displays both adjustment and non-adjustment transactions (previously only showed non-adjustments)
+
+### Tests
+- Created consolidated test helpers in `test/helpers/model_factories.dart` to reduce code duplication
+- Added comprehensive error handling tests for AI screen BLoC
+- Added sync service verification tests for AI analysis operations
+- Improved test structure and organization across AI-related test files
+
+## [5.7.0] - 2025-09-26
+
+### Changed
+- Updated dependencies and flutter version
+
 ## [5.6.10] - 2025-04-19
 
 ### Fixed
