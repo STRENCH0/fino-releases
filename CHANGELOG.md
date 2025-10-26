@@ -1,3 +1,12 @@
+## [6.0.1] - 2025-10-26
+
+### Fixed
+- Fixed AAB/APK signing issue in release builds
+
+### Changed
+- Optimized CI/CD build performance with improved Gradle caching
+- Disabled Gradle file system watching in CI to prevent build errors
+
 ## [6.0.0] - 2025-10-25
 
 ### Added
