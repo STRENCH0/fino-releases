@@ -1,3 +1,14 @@
+## [6.0.2] - 2025-10-26
+
+### Removed
+- SMS import functionality (only PUSH import is now available)
+- `another_telephony` dependency
+- READ_SMS permission from Android manifest
+- SMS conversation and message selection screens
+
+### Changed
+- Updated firebase dependencies to latest versions
+
 ## [6.0.1] - 2025-10-26
 
 ### Fixed
