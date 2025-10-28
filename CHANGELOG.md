@@ -1,3 +1,8 @@
+## [6.1.1] - 2025-10-28
+
+### Removed
+- FOREGROUND_SERVICE_DATA_SYNC permission - no longer required for notification processing
+
 ## [6.1.0] - 2025-10-28
 
 ### Added
