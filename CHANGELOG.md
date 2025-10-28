@@ -1,3 +1,23 @@
+## [6.1.0] - 2025-10-28
+
+### Added
+- PUSH import support for MTS Bank
+- Accessibility tooltips for all floating action buttons (FABs) across the app
+- Configurable bottom navigation bar - users can now customize which screens appear in portrait and landscape orientations
+- Navigation settings screen to reorder, add, and remove navigation items
+- Changelog screen in Settings showing app version history with localized content (English and Russian)
+
+### Changed
+- Bottom navigation is now customizable with support for up to 3 items in portrait and 6 items in landscape mode
+- "Other" screen now accessible from configurable navigation
+
+### Fixed
+- Lint warnings
+
+### Tests
+- Added comprehensive unit tests for navigation configuration (18 tests covering BLoC logic and DAO operations)
+- Added comprehensive tests for changelog feature (25 tests: 12 parser tests, 13 widget tests)
+
 ## [6.0.2] - 2025-10-26
 
 ### Removed
