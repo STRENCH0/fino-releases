@@ -1,3 +1,31 @@
+## [6.2.0] - 2025-11-04
+
+### Added
+- Custom push notification import infrastructure (core functionality):
+  - Template-based pattern matching system for user-defined notification import rules
+  - TemplatePatternBuilder for automatic regex generation from text selections
+  - Automatic saving of all push notifications to database (7-day retention)
+  - Foundation for supporting any banking app without hardcoded patterns
+- Custom push notification import UI:
+  - Push Statistics screen to view all saved push notifications
+  - Custom Rules Management screen to view, enable/disable, and delete custom import rules
+  - Rule Setup screen with interactive text selection interface for creating custom rules
+  - Users can now select card numbers, amounts, and shop names from push notification text
+  - Real-time template preview and validation during rule creation
+  - **NEW: Support for selecting fields from both notification title AND message simultaneously**
+  - **NEW: Improved selection flow - select text first, then choose field type (CARD/SUM/SHOP)**
+  - Navigation integration between all custom import screens
+  - **NEW: Debug button now sends REAL notifications using awesome_notifications package**
+  - **NEW: Test notifications use BigText layout to preserve Unicode characters (₽, etc.)**
+
+### Changed
+- Refactored AI screen
+- Refactored navigation settings screen with improved state management and UI structure
+- Push notification service now saves all received notifications for user review
+- Import settings screen now includes access to custom rules management
+- Sorting of cards on AI screen
+- General optimization of application screens
+
 ## [6.1.1] - 2025-10-28
 
 ### Removed
