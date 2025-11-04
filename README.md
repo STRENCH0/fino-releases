@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-6.1.1-blue) ![](https://github.com/STRENCH0/fino/actions/workflows/android-release.yml/badge.svg) [![codecov](https://codecov.io/gh/STRENCH0/Fino/graph/badge.svg?token=2WSD4ZIWO1)](https://codecov.io/gh/STRENCH0/Fino)
+![](https://img.shields.io/badge/version-6.2.0-blue) ![](https://github.com/STRENCH0/fino/actions/workflows/android-release.yml/badge.svg) [![codecov](https://codecov.io/gh/STRENCH0/Fino/graph/badge.svg?token=2WSD4ZIWO1)](https://codecov.io/gh/STRENCH0/Fino)
 
 <img src="screenshots/Frame_1.png?raw=true" width="200"> <img src="screenshots/Frame_2.png?raw=true" width="200"> <img src="screenshots/Frame_3.png?raw=true" width="200"> <img src="screenshots/Frame_4.png?raw=true" width="200"> <img src="screenshots/Frame_5.png?raw=true" width="200"> <img src="screenshots/Frame_6.png?raw=true" width="200">
 
