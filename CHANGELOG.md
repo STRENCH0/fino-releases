@@ -1,3 +1,11 @@
+## [6.2.1] - 2025-11-05
+
+### Changed
+- Improved the UI on the screen for creating a custom push notification import rule
+
+### Fixed
+- Add transaction screen layout
+
 ## [6.2.0] - 2025-11-04
 
 ### Added
