@@ -1,3 +1,12 @@
+## [6.3.0] - 2025-11-07
+
+### Changed
+- Improved charts with new scrollable chart library
+  - Better scrolling experience with smooth animations
+  - Enhanced visual design with customizable styles
+  - Properly formatted currency labels with locale-specific number formatting
+  - Improved data visualization for Net Worth and Income/Outcome charts
+
 ## [6.2.1] - 2025-11-05
 
 ### Changed
