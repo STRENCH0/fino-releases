@@ -1,3 +1,9 @@
+## [6.3.1] - 2025-11-09
+
+### Changed
+- Notification permission is no longer requested on app startup
+- Enhanced scroll physics for scrollable charts
+
 ## [6.3.0] - 2025-11-07
 
 ### Changed
