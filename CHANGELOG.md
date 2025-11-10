@@ -1,3 +1,14 @@
+## [6.3.2] - 2025-11-10
+
+### Added
+- Bank Account field support for custom push import rules (alternative to Card field)
+
+### Changed
+- Card field is now optional in push import rules (only Sum is required)
+
+### Removed
+- Removed legacy push import system (hardcoded bank handlers for Tinkoff, Gazprom, MTS)
+
 ## [6.3.1] - 2025-11-09
 
 ### Changed
