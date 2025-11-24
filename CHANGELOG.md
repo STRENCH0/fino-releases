@@ -1,3 +1,8 @@
+## [6.4.2] - 2025-11-24
+
+### Fixed
+- Search field in snapping grid now only autofocuses when visible
+
 ## [6.4.1] - 2025-11-24
 
 ### Fixed
