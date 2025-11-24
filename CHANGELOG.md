@@ -1,3 +1,8 @@
+## [6.4.1] - 2025-11-24
+
+### Fixed
+- App doesn't run with old dbs
+
 ## [6.4.0] - 2025-11-24
 
 ### Added
