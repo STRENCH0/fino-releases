@@ -1,3 +1,12 @@
+## [6.4.0] - 2025-11-24
+
+### Added
+- Search field for categories and wallets in add transaction screen
+
+### Fixed
+- Tag during push import
+
+
 ## [6.3.2] - 2025-11-10
 
 ### Added
