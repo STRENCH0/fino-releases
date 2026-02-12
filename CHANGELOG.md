@@ -1,3 +1,8 @@
+## [6.4.3] - 2026-02-12
+
+### Fixed
+- Fixed open calc on transfer transaction
+
 ## [6.4.2] - 2025-11-24
 
 ### Fixed
