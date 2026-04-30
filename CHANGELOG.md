@@ -1,3 +1,11 @@
+## [6.5.0] - 2026-04-30
+
+### Added
+- Transaction templates (frequent operations): save transactions as templates for quick reuse
+- Auto-detection of frequent transactions based on category pairs and amounts
+- Template management screen (accessible from "Other" tab or bottom navigation bar)
+- "Save as template" button in transaction details
+
 ## [6.4.3] - 2026-02-12
 
 ### Fixed
