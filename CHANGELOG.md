@@ -1,3 +1,8 @@
+## [6.5.1] - 2026-05-02
+
+### Fixed
+- Back gesture after templates dialogs
+
 ## [6.5.0] - 2026-04-30
 
 ### Added
