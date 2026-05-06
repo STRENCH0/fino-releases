@@ -1,3 +1,8 @@
+## [6.5.2] - 2026-05-06
+
+### Changed
+- Currency rates server url
+
 ## [6.5.1] - 2026-05-02
 
 ### Fixed
