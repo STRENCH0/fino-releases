@@ -1,3 +1,16 @@
+## [6.6.0] - 2026-10-14
+
+### Changed
+- Charts are calculated from transactions in real time instead of precomputed statistics
+- Net worth chart on the tablet main screen uses the scrollable chart
+
+### Fixed
+- Wrong wallet balances on the net worth chart
+- Net worth chart not updating until the screen is reopened
+
+### Removed
+- Unused home screen widget
+
 ## [6.5.2] - 2026-05-06
 
 ### Changed
