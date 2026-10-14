@@ -1,3 +1,9 @@
+## [6.6.1] - 2026-10-14
+
+### Fixed
+- Stuttering animation when switching between chart tabs
+- Charts showing outdated data after reopening the charts screen
+
 ## [6.6.0] - 2026-10-14
 
 ### Changed
