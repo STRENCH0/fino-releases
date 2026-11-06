@@ -1,3 +1,11 @@
+## [6.7.0] - 2026-11-06
+
+### Added
+- "Exclude from overall statistics" setting for income categories, expense categories, and wallets; wallet cards retain their own totals and real balances
+
+### Fixed
+- Database migrations run sequentially and record only successfully completed steps
+
 ## [6.6.1] - 2026-10-14
 
 ### Fixed
