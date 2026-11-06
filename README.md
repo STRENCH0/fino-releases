@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-6.6.1-blue) ![](https://github.com/STRENCH0/fino/actions/workflows/android-release.yml/badge.svg) [![codecov](https://codecov.io/gh/STRENCH0/Fino/graph/badge.svg?token=2WSD4ZIWO1)](https://codecov.io/gh/STRENCH0/Fino)
+![](https://img.shields.io/badge/version-6.7.0-blue) ![](https://github.com/STRENCH0/fino/actions/workflows/android-release.yml/badge.svg) [![codecov](https://codecov.io/gh/STRENCH0/Fino/graph/badge.svg?token=2WSD4ZIWO1)](https://codecov.io/gh/STRENCH0/Fino)
 
 <img src="screenshots/Frame_1.png?raw=true" width="200"> <img src="screenshots/Frame_2.png?raw=true" width="200"> <img src="screenshots/Frame_3.png?raw=true" width="200"> <img src="screenshots/Frame_4.png?raw=true" width="200"> <img src="screenshots/Frame_5.png?raw=true" width="200"> <img src="screenshots/Frame_6.png?raw=true" width="200">
 
@@ -12,6 +12,24 @@ An app to manage your finances.
 2. `flutter pub get`
 3. `flutter packages pub run build_runner build`
 4. `flutter build apk --no-tree-shake-icons`
+
+## Тестирование
+
+Обычный запуск не требует нативной библиотеки ObjectBox:
+
+```bash
+flutter test
+```
+
+Проверки миграций и финансовых расчётов на реальной базе запускаются только локально
+с установленной нативной библиотекой ObjectBox соответствующей версии:
+
+```bash
+FINO_LOCAL_OBJECTBOX_TESTS=1 flutter test test/common/objectbox
+```
+
+В CI (`CI=true`) эти проверки всегда пропускаются. Unit-тесты правил исключения,
+агрегатора и UI остаются в обычном наборе.
 
 ## Key features
 - Support for different currencies including crypto
