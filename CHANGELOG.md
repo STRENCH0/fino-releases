@@ -1,3 +1,15 @@
+## [7.0.0] - 2026-11-13
+
+### Added
+- Expense trends with scrollable daily charts, previous-month and custom comparisons, optional full comparison months, wallet and category filters, and transaction details for selected days and categories
+
+### Changed
+- Exchange rates are fetched directly from the provider over HTTPS, with a fallback source and local caching
+
+### Fixed
+- Missing transactions when loading additional pages in category statistics
+- Currency rates refresh when the local cache is outdated
+
 ## [6.7.0] - 2026-11-06
 
 ### Added
