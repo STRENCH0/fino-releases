@@ -1,3 +1,8 @@
+## [7.0.1] - 2026-11-13
+
+### Fixed
+- Category comparisons and transaction details in trends follow the selected chart day; full comparison lines no longer change the monthly summary or reset the selected day
+
 ## [7.0.0] - 2026-11-13
 
 ### Added
