@@ -1,3 +1,10 @@
+## [7.0.2] - 2026-11-14
+
+### Changed
+- AI screens and settings are temporarily hidden
+- Google Drive synchronization is temporarily hidden and disabled for all users; local backups remain available
+- Category and wallet filters in statistics and trends support inverting the selection and show selected counts on chips
+
 ## [7.0.1] - 2026-11-13
 
 ### Fixed
