@@ -1,3 +1,8 @@
+## [7.0.3] - 2026-11-15
+
+### Changed
+- Trends filters and chart options are restored after reopening; selecting the current month follows the calendar automatically
+
 ## [7.0.2] - 2026-11-14
 
 ### Changed
