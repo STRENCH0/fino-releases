@@ -1,3 +1,12 @@
+## [7.0.4] - 2026-11-16
+
+### Added
+- Trends chart has a dynamic Y-axis scale with readable amounts and horizontal guide lines
+
+### Fixed
+- Back navigation preserves Other after closing modal windows or nested pages in settings, budgets, and charts
+- Bottom sheets in trends and the purchase template picker cover the bottom navigation bar
+
 ## [7.0.3] - 2026-11-15
 
 ### Changed
