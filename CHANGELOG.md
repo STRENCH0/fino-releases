@@ -1,3 +1,12 @@
+## [7.1.0] - 2026-11-19
+
+### Added
+- An optional full-screen wallet and category picker opens the first missing field when adding or editing a transaction. Transactions with both fields filled open directly on the form.
+- When adding an expense, tap “Next” in the bottom-right corner to keep the wallet and date for the next purchase.
+
+### Changed
+- Wallet and category icons are larger throughout the app.
+
 ## [7.0.4] - 2026-11-16
 
 ### Added
